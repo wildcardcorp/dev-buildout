@@ -18,3 +18,4 @@ parts
 .idea
 node_modules
 bower_modules
+.DS_Store
