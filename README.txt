@@ -1,7 +1,6 @@
 Introduction
 ============
 
-This is the DSAC customization/theme package for KARL
 
 
 Requirements
